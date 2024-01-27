@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"web_scraper/scraper"
+)
 
 func main() {
-	fmt.Println("the whole idea of this is to build a webscraper")
+	scraper.Run()
 }
