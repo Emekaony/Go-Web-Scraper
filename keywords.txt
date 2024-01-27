@@ -1,0 +1,1 @@
+1. Storing data in any web scraping project is paramount as it facilitates easy retrival.
